@@ -36,6 +36,8 @@ npm run build
 [Demo en Firebase](https://movies-app-1.web.app/)
 
 ## Capturas 📷
+![chrome_mnUsQi5Gxt](https://user-images.githubusercontent.com/33733355/200148877-cee090a6-60b2-417b-a202-2dae1da46274.png)
+![chrome_Asn2FA0j7T](https://user-images.githubusercontent.com/33733355/200148879-9a6a490f-28c4-4da1-b4ce-4e927d3dd5bd.png)
 
 
 ## Autor ✒️
